@@ -10,3 +10,5 @@
 - [x] Mastering git
 - [ ] Care and feeding of developers
 - [ ] Mastering PalmOS
+- [ ] Blockchains with BASIC
+
